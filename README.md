@@ -2,7 +2,7 @@ HFCustomKeyboard
 ================
 A really rather good software keyboard for IPads
 
-![The DWS Custom Keyboard](https://github.com/DerekWSmith/HFCustomKeyboard/blob/master/keyboard.png)
+![The DWS Custom Keyboard]( https://raw.githubusercontent.com/DerekWSmith/HFCustomKeyboard/master/keyboard.png )
 
 It will just pop up like the standard keyboard, when any inputText field it is attached to becomes firstResponder.
 
